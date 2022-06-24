@@ -15,7 +15,8 @@ This is to keep track of the topics studied or revised
   <br>
  ### WEBDEV<br>
   --> Basics of HTML<br>
-  
+ --> Schedule Table (rowspan colspan) <br>
+ 
 
 ## 23/June/22
 ### OOPs<br>
