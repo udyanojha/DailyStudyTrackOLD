@@ -6,13 +6,17 @@ This is to keep track of the topics studied or revised
  --> Even after Odd LinkedList O(N) space O(N)<br>
  --> Revision of LL<br>
  --> Delete every N nodes <br>
- --> 
+ --> Swap two Nodes of LL <br>
+ --> kReverse trying pending...<br>
  
- ### WEBDEV<br>
+ ### <li>WEBDEV<br>
  --> Form<br>
  --> Reported a bug to security team while exploring the website <br>
  --> Made Login and Registeration form using sandbox <br>
  --> Basics of CSS<br>
+ 
+ ### <li>Extra<br>
+ --> Google Cloud Labs <br>
 
 
 ## <li>24/June/22
