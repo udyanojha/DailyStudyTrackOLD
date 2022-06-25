@@ -1,7 +1,21 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
-## 24/June/22
+## <li>25/June/22
+ ### DSA<Br>
+ --> Even after Odd LinkedList O(N) space O(N)<br>
+ --> Revision of LL<br>
+ --> Delete every N nodes <br>
+ --> 
+ 
+ ### WEBDEV<br>
+ --> Form<br>
+ --> Reported a bug to security team while exploring the website <br>
+ --> Made Login and Registeration form using sandbox <br>
+ --> Basics of CSS<br>
+
+
+## <li>24/June/22
  ### DSA<Br>
   --> Palindrome LinkedList (done) find mid point, can be done using slow fast point approach.<br> then reversed the LL and compared till head2 not null <br>
   --> Code : Midpoint of Linked list (return mid node)<br>
@@ -18,7 +32,7 @@ This is to keep track of the topics studied or revised
  --> Schedule Table (rowspan colspan) <br>
  
 
-## 23/June/22
+## <li>23/June/22
 ### OOPs<br>
 --> Learned OOPs concepts like abstract classes -- need to be implemented in subclass unless specified abstract <br>
 --> Interface -- contains all abstract methods <br>
