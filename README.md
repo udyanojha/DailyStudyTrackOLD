@@ -18,6 +18,9 @@ This is to keep track of the topics studied or revised
  --> Display inline, block, inline-block<br>
  --> Margin <br>
  --> Padding<br>
+ --> Basic Blog edits <br>
+ --> Position Ficed need top argument <br>
+
 
 ## <li>25/June/22
  ### DSA<Br>
