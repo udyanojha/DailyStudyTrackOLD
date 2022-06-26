@@ -9,11 +9,15 @@ This is to keep track of the topics studied or revised
  --> We can solve it recursively refer to row col pattern approach<br>
  --> Stack -- Implementation using array Exceptions<br>
  --> Stack -- Implementation using Singly Linked List O(1) Pop and Push<br>
- 
- 
+ --> Balanced Parenthesis <br>
+ --> Check redundant brackets <br>
+ --> Stock Span (continue)... <br>
+
+
  ### <li>WEBDEV<br>
- --> <br>
- --> 
+ --> Display inline, block, inline-block<br>
+ --> Margin <br>
+ --> Padding<br>
 
 ## <li>25/June/22
  ### DSA<Br>
