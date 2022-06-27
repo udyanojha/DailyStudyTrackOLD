@@ -2,6 +2,16 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>27/June/22
+ ### DSA<Br>
+ --> Stock Span using hint<br>
+ --> <br>
+
+
+ ### <li>WEBDEV<br>
+ --> <br>
+
+
 ## <li>26/June/22
  ### DSA<Br>
  --> kReverse Recursively DoubleNode class<br>
