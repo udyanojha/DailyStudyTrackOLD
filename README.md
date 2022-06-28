@@ -1,8 +1,7 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
-
-## <li>27/June/22
+## <li>28/June/22
  ### DSA<Br>
  --> Stock Span using hint<br>
  --> <br>
@@ -10,6 +9,11 @@ This is to keep track of the topics studied or revised
 
  ### <li>WEBDEV<br>
  --> <br>
+
+
+## <li>27/June/22
+ ### DSA<Br>
+ --> Stock Span using hint<br>
 
 
 ## <li>26/June/22
