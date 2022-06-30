@@ -5,11 +5,15 @@ This is to keep track of the topics studied or revised
 ## <li>30/June/22
  ### DSA<Br>
  --> Stack using 2 Queue<br>
- -->
+ --> Reverse Queue recursively<br>
+ --> Reverse the First K Elements in the Queue O(n^2) & O(n)<br>
+ --> Double Ended Queue Using LinkedList TODO using array<br>
+ --> Next Number (increment a num in LL e.g. 9 -> 9 -> 9 to 1->0->0->0) <br> 
+ --> Delete Alternate Nodes LL easy <br>
+ -->  
 
  ### <li>WEBDEV<br>
- --> Flex<br>
- --> <br>
+ --> Started building Resume WebPage<br>
 
 
 ## <li>29/June/22
