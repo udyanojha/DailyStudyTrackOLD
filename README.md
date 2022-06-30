@@ -1,15 +1,29 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
-## <li>28/June/22
- ### DSA<Br>
- --> Stock Span using hint<br>
- --> <br>
 
+## <li>30/June/22
+ ### DSA<Br>
+ --> Stack using 2 Queue<br>
+ -->
 
  ### <li>WEBDEV<br>
+ --> Flex<br>
  --> <br>
 
+
+## <li>29/June/22
+ ### DSA<Br>
+ --> Minimum bracket Reversal (revisit)<br>
+ --> Queue -- Implementation using Array<br>
+ --> Queue -- Implementation usind Linked List <br>
+
+ ### <li>WEBDEV<br>
+ --> Flex<br>
+
+
+## <li>28/June/22<br>
+ 
 
 ## <li>27/June/22
  ### DSA<Br>
