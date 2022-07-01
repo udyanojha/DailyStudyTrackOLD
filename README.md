@@ -2,6 +2,22 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>27/June/22
+ ### DSA<Br>
+ --> Revising Recursion<br>
+ --> Get Maze Path<br>
+ --> Get Maze Path with Jumps<br>
+ --> Print Subsequence<br>
+ --> print kpc<br>
+ --> print stair path<br>
+ --> print maze path and with jump <br>
+ --> print permutations<br>
+ --> Print Encodings '0' case <br>
+ --> Flood Fill using -1 as visited<br>
+ --> Flood Fill using Visited Boolean to back track <br> 
+ --> LeetCode 1710. Maximum Units on a Truck using recursion<br>
+
+
 ## <li>30/June/22
  ### DSA<Br>
  --> Stack using 2 Queue<br>
@@ -10,10 +26,11 @@ This is to keep track of the topics studied or revised
  --> Double Ended Queue Using LinkedList TODO using array<br>
  --> Next Number (increment a num in LL e.g. 9 -> 9 -> 9 to 1->0->0->0) <br> 
  --> Delete Alternate Nodes LL easy <br>
- -->  
+ --> 
 
  ### <li>WEBDEV<br>
  --> Started building Resume WebPage<br>
+ --> Added navbar, Header Section, About Section <br>
 
 
 ## <li>29/June/22
