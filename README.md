@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>01/July/22
+ ### DSA<Br>
+ --> Target Sum Subarray<br>
+ --> N-Queens<br>
+ --> K-Knights<br>
+ --> Redundant Brackets Stack <br>
+ --> Balanced Brackets Stack <br>
+ --> Next Greater Element To The Right<br>
+
 
 ## <li>01/July/22
  ### DSA<Br>
