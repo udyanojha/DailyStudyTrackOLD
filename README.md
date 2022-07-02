@@ -1,7 +1,7 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
-## <li>01/July/22
+## <li>02/July/22
  ### DSA<Br>
  --> Target Sum Subarray<br>
  --> N-Queens<br>
