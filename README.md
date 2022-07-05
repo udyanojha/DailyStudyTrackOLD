@@ -7,8 +7,8 @@ This is to keep track of the topics studied or revised
  --> Tree implementation using ArrayList <br>
  --> Tree takeInput() recursively <br>
  --> print() recursively <br>
- --> print() levelwise <br>
- --> takeInput() levelwise <br>
+ --> print() levelwise using Queue<br>
+ --> takeInput() levelwise using Queue<br>
  --> Count total nodes in a tree<br>
  --> Height of the tree <br>
  --> Depth theory can be done using k as argument in recursion<br>
