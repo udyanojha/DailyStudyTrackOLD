@@ -1,6 +1,25 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>05/July/22
+ ### DSA<Br>
+ --> Tree<br>
+ --> Tree implementation using ArrayList <br>
+ --> Tree takeInput() recursively <br>
+ --> print() recursively <br>
+ --> print() levelwise <br>
+ --> takeInput() levelwise <br>
+ --> Count total nodes in a tree<br>
+ --> Height of the tree <br>
+ --> Depth theory can be done using k as argument in recursion<br>
+ --> Count Leaf nodes<br>
+ --> Traversals - LevelWise (Queue using breakNode)<br>
+ --> Traversals - preOrder<br>
+ --> Traversals - postOrder<br>
+ --> Number of nodes greater than x<br>
+ --> 
+
+ 
 ## <li>04/July/22
  ### Google Cloud Labs<Br>
 
