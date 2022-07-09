@@ -1,6 +1,8 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>09/July/22
+ ### Google Cloud Labs<Br>
 
 ## <li>08/July/22
  ### Google Cloud Labs<Br>
