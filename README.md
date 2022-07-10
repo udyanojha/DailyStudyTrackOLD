@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>10/July/22
+ ### DSA<Br>
+ --> Tree continue<br>
+ --> Node having sum of children and node is max using Class<br>
+ --> Structurally identical using Queue Pending Recursion<br>
+ --> Next larger element using Queue and Stack Pending Recursion <br>
+ --> 
+
+
 ## <li>09/July/22
  ### Google Cloud Labs<Br>
 
