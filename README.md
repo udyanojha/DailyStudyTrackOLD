@@ -7,7 +7,12 @@ This is to keep track of the topics studied or revised
  --> Node having sum of children and node is max using Class<br>
  --> Structurally identical using Queue Pending Recursion<br>
  --> Next larger element using Queue and Stack Pending Recursion <br>
+ --> Second Largest Element In Tree <br>
+ --> Replace node with depth <br>
  --> 
+ 
+ ### Open Source <br>
+ --> Got PR merged at PublicLabs<br>
 
 
 ## <li>09/July/22
