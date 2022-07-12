@@ -1,6 +1,12 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>11/July/22
+ ### DSA<Br>
+ --> Tree continue<br>
+ --> Diameter Of Binary Tree <br>
+
+
 ## <li>10/July/22
  ### DSA<Br>
  --> Tree continue<br>
@@ -9,7 +15,6 @@ This is to keep track of the topics studied or revised
  --> Next larger element using Queue and Stack Pending Recursion <br>
  --> Second Largest Element In Tree <br>
  --> Replace node with depth <br>
- --> 
  
  ### Open Source <br>
  --> Got PR merged at PublicLabs<br>
