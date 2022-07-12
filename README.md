@@ -1,10 +1,30 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
-## <li>11/July/22
+## <li>13/July/22
  ### DSA<Br>
  --> Tree continue<br>
- --> Diameter Of Binary Tree <br>
+ --> Diameter Of Binary Tree Using class <br>
+ --> Mirror a Binary Tree <br>
+ --> Preorder Binary Tree <br>
+ --> Postorder Binary Tree<br>
+ --> Construct Tree from Preorder and Inorder pending <br>
+### DEV <br>
+--> Added contact us to HTML CSS RESUME page<br>
+--> Making work experience section pending <br>
+
+
+## <li>12/July/22
+ ### DSA<Br>
+ --> Tree continue<br>
+ --> Sum of nodes <br>
+ --> find node <br>
+ --> print levelwise <br>
+ --> Nodes Greater Than X <br>
+ --> Height Of Binary Tree <br>
+ --> Replace Node With Depth <br>
+ --> Nodes without sibling <br>
+ --> Diameter Of Binary Tree O(n^2)<br>
 
 
 ## <li>10/July/22
