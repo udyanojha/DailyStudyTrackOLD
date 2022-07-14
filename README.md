@@ -1,14 +1,33 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+
+
+## <li>14/July/22
+ ### DSA<Br>
+ --> Binary Search Tree continue<br>
+ --> Print nodes at distance k from node PENDING <br>
+ --> Check if a Binary Tree is BST 3 methods used 1st have to do other 2<br> 
+ --> Code: Construct BST From Sorted Array <br>
+ --> Code: BST to Sorted LL NOT EFFICIENT pending class method<br>
+
+
 ## <li>13/July/22
  ### DSA<Br>
- --> Tree continue<br>
+ --> Binary Tree continue<br>
  --> Diameter Of Binary Tree Using class <br>
  --> Mirror a Binary Tree <br>
  --> Preorder Binary Tree <br>
  --> Postorder Binary Tree<br>
- --> Construct Tree from Preorder and Inorder pending <br>
+ --> Code: Search Node in BST <br>
+ --> Code: Print Elements in Range <br>
+ --> Code: Construct Tree from Preorder and Inorder <br>
+ --> Code: Construct Tree from Postorder and Inorder <br>
+ --> Create & Insert Duplicate Node to left <br>
+ --> Minimum and Maximum in the Binary Tree <br>
+ --> Level order traversal in BT <br>
+ --> Path Sum Root to Leaf <br>
+ 
 ### DEV <br>
 --> Added contact us to HTML CSS RESUME page<br>
 --> Making work experience section pending <br>
@@ -16,7 +35,7 @@ This is to keep track of the topics studied or revised
 
 ## <li>12/July/22
  ### DSA<Br>
- --> Tree continue<br>
+ --> Tree and Binary Tree continue<br>
  --> Sum of nodes <br>
  --> find node <br>
  --> print levelwise <br>
