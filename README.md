@@ -1,6 +1,16 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>15/July/22
+ ### DSA<Br>
+ --> Binary Search Tree continue<br>
+ --> Find path in BST <br>
+ --> Create & Insert Duplicate Node <br>
+ --> LCA of Binary Tree <br>
+ --> LCA of BST <br>
+ --> Pair Sum Binary Tree <br>
+ --> Path Sum Root to Leaf <br>
+ --> 
 
 
 ## <li>14/July/22
