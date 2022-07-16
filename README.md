@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>16/July/22
+ ### DSA<Br>
+ --> Binary Search Tree continue<br>
+ --> Largest BST<br>
+ --> Replace with Sum of greater nodes Do dry run<br>
+
+ ###SQL
+ --> basics <br> 
+ 
 ## <li>15/July/22
  ### DSA<Br>
  --> Binary Search Tree continue<br>
@@ -10,7 +19,6 @@ This is to keep track of the topics studied or revised
  --> LCA of BST <br>
  --> Pair Sum Binary Tree <br>
  --> Path Sum Root to Leaf <br>
- --> 
 
 
 ## <li>14/July/22
