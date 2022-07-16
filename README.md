@@ -7,7 +7,7 @@ This is to keep track of the topics studied or revised
  --> Largest BST<br>
  --> Replace with Sum of greater nodes Do dry run<br>
 
- ###SQL
+ ### SQL<br>
  --> basics <br> 
  
 ## <li>15/July/22
