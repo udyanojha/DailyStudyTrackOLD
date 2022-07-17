@@ -2,7 +2,7 @@
 This is to keep track of the topics studied or revised 
 
 
-## <li>16/July/22
+## <li>17/July/22
  ### DSA<Br>
  --> Binary Search Tree continue<br>
  --> Path Sum Root to Leaf *DO AGAIN* for O(log n) space<br>
