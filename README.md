@@ -7,7 +7,10 @@ This is to keep track of the topics studied or revised
  --> Binary Search Tree continue<br>
  --> Path Sum Root to Leaf *DO AGAIN* for O(log n) space<br>
  --> Print nodes at distance k from node <br>
- -->
+ --> Pair sum in a BST <br>
+ --> Check cousins DO AGAIN <br>
+ --> Longest Leaf to root path<br>
+ --> Remove leaf nodes in Tree<br>
 
 
 ## <li>16/July/22
