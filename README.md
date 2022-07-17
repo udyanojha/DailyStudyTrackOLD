@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+
+## <li>16/July/22
+ ### DSA<Br>
+ --> Binary Search Tree continue<br>
+ --> Path Sum Root to Leaf *DO AGAIN* for O(log n) space<br>
+ --> Print nodes at distance k from node <br>
+ -->
+
+
 ## <li>16/July/22
  ### DSA<Br>
  --> Binary Search Tree continue<br>
@@ -148,7 +157,6 @@ This is to keep track of the topics studied or revised
  --> Double Ended Queue Using LinkedList TODO using array<br>
  --> Next Number (increment a num in LL e.g. 9 -> 9 -> 9 to 1->0->0->0) <br> 
  --> Delete Alternate Nodes LL easy <br>
- --> 
 
  ### <li>WEBDEV<br>
  --> Started building Resume WebPage<br>
@@ -225,7 +233,7 @@ This is to keep track of the topics studied or revised
   <br>
  ### WEBDEV<br>
   --> Basics of HTML<br>
- --> Schedule Table (rowspan colspan) <br>
+  --> Schedule Table (rowspan colspan) <br>
  
 
 ## <li>23/June/22
