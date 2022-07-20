@@ -2,6 +2,38 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>19/July/22
+ ### DSA<Br>
+ --> Priority Queue & Heap theory <br>
+ --> Priority Queue Implementation <br>
+ --> LeetCode :
+      - Middle Of A LinkedList <br>
+      - Reverse a LinkedList<br>
+      - Reorder a LinkedLIst<br>
+      - Merge Two Sorted LinkedList <br>
+      - Merge K sorted Linked list <br>
+
+
+## <li>19/July/22
+ ### DSA<Br>
+ --> HashMap Continue<br>
+ --> Print Intersection<br>
+ --> Extract Unique characters<br>
+ --> Longest Consecutive Sequence<br>
+ --> Pairs with difference K<br>
+ --> Longest subset zero sum<br>
+ --> LeetCode : 3. Longest Substring Without Repeating Characters <br>
+ --> LeetCode : 217. Contains Duplicate <br>
+ --> LeetCode : 242. Valid Anagram <br>
+
+
+## <li>18/July/22
+ ### DSA<Br>
+ --> Leetcode: addTwoNumbers LinkedList <br>
+ --> HashMap Theory <br>
+ --> Priority Queue <br>
+
+
 ## <li>17/July/22
  ### DSA<Br>
  --> Binary Search Tree continue<br>
@@ -11,6 +43,10 @@ This is to keep track of the topics studied or revised
  --> Check cousins DO AGAIN <br>
  --> Longest Leaf to root path<br>
  --> Remove leaf nodes in Tree<br>
+ --> HashMap Start <br>
+ --> Maximum Frequency Number <br>
+ --> Pair Sum to 0 <br>
+ --> 
 
 
 ## <li>16/July/22
