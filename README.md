@@ -2,6 +2,32 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>23/July/22
+ ### DSA<Br>
+--> DP Start PriorityQueue pending <br>
+--> Fibonacci DP <br>
+
+## <li>22/July/22
+ ### SQL<Br>
+ --> Basics Done<br>
+ --> Leetcode SQL: easy 3 Qs
+
+
+## <li>21/July/22
+ ### DSA<Br>
+ --> PriorityQueue Continue<br>
+ --> Code - Implace Heap sort Pending <br>
+ ### SQL <br>
+ --> Basics of SQL <br>
+
+
+## <li>20/July/22
+ ### DSA<Br>
+ --> Priority Queue Continue <br>
+ --> Code : Remove Min <br>
+ --> Code : Max Priority Queue <br>
+ 
+
 ## <li>19/July/22
  ### DSA<Br>
  --> Priority Queue & Heap theory <br>
