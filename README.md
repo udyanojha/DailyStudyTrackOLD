@@ -2,10 +2,42 @@
 This is to keep track of the topics studied or revised 
 
 
-## <li>23/July/22
+## <li>24/July/22
+ ### DSA<Br>
+ --> Priority Queue & DP Continued <br>
+ --> Code: Number of Balanced BTs Completed <br>
+ --> 
+
+
+## <li>24/July/22
+ ### DSA<Br>
+ --> Priority Queue Continued <br>
+ --> Code - Implace Heap sort done <br>
+ --> K Largest element AL<br>
+ --> K smallest Element AL<br>
+ --> Check Max-Heap <br>
+ --> Kth largest element <br>
+ --> Trie Started<br>
+ --> Trie Implementation <br>
+ --> Trie Vs HashMap <br>
+ --> Count Words in Trie <br>
+ --> Buy the ticket <br>
+ --> Pattern Matching <br>
+ --> Running Median <br>
+ --> Merge K sorted arrays <br>
+ --> some Trie pending <br>
+ --> DP - Code: Min Steps to One <br>
+ --> Code: Staircase <br>
+ --> Code: Number of Balanced BTs pending...<br>
+
+## <li>23/July/22 (Amazon OA for BIE & DE)
  ### DSA<Br>
 --> DP Start PriorityQueue pending <br>
 --> Fibonacci DP <br>
+
+ ### CORE CS <br>
+ --> Computer Networks Basics <br>
+ --> Linux Started <br>
 
 ## <li>22/July/22
  ### SQL<Br>
