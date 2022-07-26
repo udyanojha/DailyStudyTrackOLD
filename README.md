@@ -2,10 +2,12 @@
 This is to keep track of the topics studied or revised 
 
 
-## <li>24/July/22
+## <li>25/July/22
  ### DSA<Br>
  --> Priority Queue & DP Continued <br>
  --> Code: Number of Balanced BTs Completed <br>
+ --> Code: Minimum Count of Squares REVISIT <br>
+ --> DP : PEP - Coin Change Permutations <br>
  --> 
 
 
