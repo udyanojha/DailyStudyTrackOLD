@@ -1,6 +1,52 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>01/August/22
+ ### DSA<Br>
+ --> Code : Get Path - DFS <br>
+ --> Code : Get Path - BFS <br>
+ --> Code : Is Connected ? <br>
+ --> Code : All connected components <br>
+ 
+
+## <li>31/July/22
+ ### DSA<Br>
+ --> Maximum Square Matrix With All Zeros <br> 
+ --> Smallest Super-Sequence <br>
+ --> Graph Started <br>
+ --> Graph Implementation <br>
+ --> Adjacency Matrix vs Adjacency List <br>
+ --> Code : BFS Traversal <br>
+ --> Code : Has Path <br>
+
+
+
+## <li>30/July/22
+ ### DSA<Br>
+ --> Coin Tower <br> 
+ 
+
+
+## <li>29/July/22
+ ### DSA<Br>
+ --> Trie Palindrom Pair <br>
+ --> Trie Auto Complete <br>
+ --> Loot Houses <br>
+ 
+
+## <li>27/July/22
+ ### DSA<Br>
+ --> Code: Knapsack(Memoization and DP) <br>
+
+
+## <li>26/July/22
+ ### DSA<Br>
+ --> LCS <br>
+ --> Code: Edit Distance <br>
+ --> Code: Edit Distance(Memoization and DP) <br>
+ --> Code: 0 1 Knapsack <br>
+ 
+
 
 ## <li>25/July/22
  ### DSA<Br>
@@ -8,7 +54,10 @@ This is to keep track of the topics studied or revised
  --> Code: Number of Balanced BTs Completed <br>
  --> Code: Minimum Count of Squares REVISIT <br>
  --> DP : PEP - Coin Change Permutations <br>
- --> 
+ --> DP : PEP - Coin Change Combination <br>
+ --> Amazon Test <br>
+ --> Byte Landian DP <br>
+ --> Code : Minimum Cost Path <br>
 
 
 ## <li>24/July/22
@@ -31,6 +80,7 @@ This is to keep track of the topics studied or revised
  --> DP - Code: Min Steps to One <br>
  --> Code: Staircase <br>
  --> Code: Number of Balanced BTs pending...<br>
+
 
 ## <li>23/July/22 (Amazon OA for BIE & DE)
  ### DSA<Br>
