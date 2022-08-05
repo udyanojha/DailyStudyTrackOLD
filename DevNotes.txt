@@ -1,0 +1,29 @@
+-CSS Media Query
+-Dynamic Serving (Need to maintain multiple files)
+-Seperate mobile website
+
+Measurements
+Absolute px in cm
+Relative % vh vw rem em
+
+Relative measument gives Fluid Layouts
+
+Viewport Meta Tag
+- It is visible area of webpage
+- (In case of non responsive) Browser Renders to virtual viewport than zoom out to fit on small screen.
+- <meta name="viewport" content="Width=device-width, inital-scale=1">
+
+MEDIA QUERIES
+- Media Type (Screen, print, speech, all)
+- media-properties (width, height, resolution)
+e.g. @media screen and (max-width:600px){
+	```
+	`````
+	````
+     }
+We can have multiple breakpoints
+Media query 
+
+
+
+
