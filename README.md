@@ -1,6 +1,20 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>05/August/22
+ ### DSA<Br>
+ --> Kruskal's Algorithm<br>
+ --> Prims's Algorithm Started<br>
+
+## <li>04/August/22
+ ### DSA<Br>
+ --> Kruskal's Algorithm<br>
+
+## <li>02/August/22
+ ### DSA<Br>
+ --> Graph Cyclic Detection<br>
+
+
 ## <li>01/August/22
  ### DSA<Br>
  --> Code : Get Path - DFS <br>
