@@ -1,6 +1,18 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>08/August/22 (Atlassian Test - Boii long way to go)
+ ### DSA<Br>
+ --> Dijkstra Adj. Matrix Done <br> 
+
+
+
+## <li>07/August/22
+ ### DSA<Br>
+ --> Dijkstra Algorithm started<br>
+
+
+
 ## <li>05/August/22
  ### DSA<Br>
  --> Kruskal's Algorithm<br>
