@@ -1,6 +1,11 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>09/August/22
+ ### DSA<Br>
+ --> Graph - Island (Components)<br>
+ --> CODINGNINJAS String Graph DFS<br>
+
 ## <li>08/August/22 (Atlassian Test - Boii long way to go)
  ### DSA<Br>
  --> Dijkstra Adj. Matrix Done <br> 
