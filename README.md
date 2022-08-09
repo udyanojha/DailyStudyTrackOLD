@@ -1,10 +1,20 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>10/August/22
+ ### DSA<Br>
+ --> Graph - 3 Cycle <br>
+ --> Revision - Print Paths <br>
+ --> Connected components <br>
+ --> Number Of Islands <br>
+ --> Largest Piece <br>
+
+
 ## <li>09/August/22
  ### DSA<Br>
  --> Graph - Island (Components)<br>
  --> CODINGNINJAS String Graph DFS<br>
+
 
 ## <li>08/August/22 (Atlassian Test - Boii long way to go)
  ### DSA<Br>
