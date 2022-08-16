@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+
+## <li>16/August/22
+ ### DSA<Br>
+ --> TicTacToe <br>
+
+
+## <li>15/August/22 (ION GROUP - RJECTED)
+
+
 ## <li>10/August/22
  ### DSA<Br>
  --> Graph - 3 Cycle <br>
@@ -16,7 +25,7 @@ This is to keep track of the topics studied or revised
  --> CODINGNINJAS String Graph DFS<br>
 
 
-## <li>08/August/22 (Atlassian Test - Boii long way to go)
+## <li>08/August/22 (Atlassian Test - Boii long way to go REJECTED)
  ### DSA<Br>
  --> Dijkstra Adj. Matrix Done <br> 
 
@@ -123,7 +132,7 @@ This is to keep track of the topics studied or revised
  --> Code: Number of Balanced BTs pending...<br>
 
 
-## <li>23/July/22 (Amazon OA for BIE & DE)
+## <li>23/July/22 (Amazon OA for BIE & DE REJECTED)
  ### DSA<Br>
 --> DP Start PriorityQueue pending <br>
 --> Fibonacci DP <br>
