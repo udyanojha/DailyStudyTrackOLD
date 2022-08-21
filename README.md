@@ -8,6 +8,7 @@ This is to keep track of the topics studied or revised
 
  ### DSA <br>
  --> Fenwick Tree <br>
+ --> 307. Range Sum Query - Mutable <br> 
 
 ## <li>18/August/22 - 20/August/22 
  ### Joined Coding Ninja as a TA and doing DEV <br>
