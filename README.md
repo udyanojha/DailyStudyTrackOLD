@@ -2,6 +2,13 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>21/August/22
+ ### 
+
+
+## <li>18/August/22 - 20/August/22 
+ ### Joined Coding Ninja as a TA and doing DEV <br>
+
 ## <li>16/August/22
  ### DSA<Br>
  --> TicTacToe <br>
