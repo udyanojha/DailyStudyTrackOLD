@@ -2,6 +2,17 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>24/August/22
+ ### DSA <br>
+ --> DP KnapSack Pattern <br>
+
+
+## <li>23/August/22 TCS Rejected
+
+## <li>22/August/22 Accenture Rejected
+ ### DSA <br>
+ --> DP<br>
+
 ## <li>21/August/22
  ### DEV <br>
  --> JS splice(), loops
