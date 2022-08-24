@@ -24,6 +24,60 @@ e.g. @media screen and (max-width:600px){
 We can have multiple breakpoints
 Media query 
 
+// JavaScript
+
+Objects exmaple  
+var student = {
+  name : "abc",
+  rollNo : 135,
+  marks : 90
+};
+
+function greet () {
+  console.log('hello');
+}
+
+typeof student.name
+student.semester = 7
+student.hello = greet;
+student.hello()
+
+
+
+We can access properties with . notation and sq [] notation
+BUT if property's name is invalid
+e.g. "-name" : "Udyan";
+student.-name wont work
+student["-name] works
+also if we use variable dynamic so use square
+
+
+
+DELETE a property from Object
+delete student.hello
+
+
+LOOP over properties 
+for(var prop in object) {
+	// task
+}
+
+var keys = Object.keys(ObjName);
+
+var keys = Object.getOwnPropertyNames(ObjName);
+
+
+We can store objects in object
+
+
+Timing Eveents 
+--> setTimeout(greet, 2000); // 2000 ms    greet is passing fn if we add () it will call the function
+--> var id = setInterval // repeat task
+--> clearInterval(id)  // id is instance
+
+
+
+
 
 
 
