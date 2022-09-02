@@ -77,6 +77,31 @@ Timing Eveents
 
 
 
+PASS BY VALUE vs REFERENCE
+
+primitive are passed by value 
+
+Objects passed by REFERENCE
+
+
+Shallow vs Depp copy
+obj default shallow copy 
+for deep copy obj raj = {[}...objSusan};  or Object.assign({}, objSusan);   // [...arr2] or arr1 = arr3.map(el => el); 
+
+
+MAP 
+--> array.map iterates -- specified fn operation -- returns new array
+
+--> array.reduce -- traverse -- acuumulate values to one value ( e.g. sum of all) -- returns accumulated value 
+we give a fun as argument to reduce and optional starting value 
+array.reduce((ACC, CUR) => ACC+CUR);
+
+--> array.filter -- traverse and filter according to boolean fun passed -- return a new array
+
+
+
+
+
 
 
 

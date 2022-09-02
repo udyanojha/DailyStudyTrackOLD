@@ -2,6 +2,11 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>02/Sept/22
+ ### DSA <br>
+ --> Tree Ques Leetcode 1448. Count Good Nodes in Binary Tree <br>
+ --> 637. Average of Levels in Binary Tree <br> 
+
 ## <li>24/August/22
  ### DSA <br>
  --> DP KnapSack Pattern <br>

@@ -1,0 +1,42 @@
+Document Object Model
+
+It is an object
+
+document.documentElement -- html structure code
+
+window.document is equal to document
+
+document.body
+document.head
+
+window.screen // details about the screen 
+
+DOM is programming API
+API makes things easy - interface between things 
+
+Fetching Element
+document.getElementById('one');
+    <tag id='one'>...<tag>
+we can doc.style.color = 'cyan'
+docEle.style.prop = 'val';
+
+.innerText 
+
+var docEle = document.querySelecter('#one') // css selector first
+var docEle = document.querySelecterAll('.para') // css selector All
+
+
+EVENT HANDLING
+onclick
+
+fetch element -- addEventListener (pass event name , function(){
+    alert('hello'); // handler function
+});
+
+
+Event propagation 
+
+event.stopPropagation // to stop event bubbling
+
+"use strict";
+
