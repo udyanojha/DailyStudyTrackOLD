@@ -1,6 +1,15 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+## <li>04/Sept/22
+ ### DSA <br>
+ --> 1143. Longest Common Subsequence <br>
+ --> Longest Common Substring <br>
+
+
+## <li>03/Sept/22 Amazon Sydney OA (revise basics)
+ ### DSA <br>
+ --> 967. Numbers With Same Consecutive Differences <br>
 
 ## <li>02/Sept/22
  ### DSA <br>
