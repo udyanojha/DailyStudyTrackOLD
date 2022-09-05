@@ -1,6 +1,13 @@
 # DailyStudyTrack
 This is to keep track of the topics studied or revised 
 
+
+
+## <li>05/Sept/22
+ ### DSA <br>
+ --> 987. Vertical Order Traversal of a Binary Tree (Revise) <br>
+ --> 429. N-ary Tree Level Order Traversal <br>
+
 ## <li>04/Sept/22
  ### DSA <br>
  --> 1143. Longest Common Subsequence <br>
