@@ -2,6 +2,39 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>12/Sept/22
+ ### DSA <br>
+ --> 948. Bag of Tokens <br>
+
+
+## <li>11/Sept/22
+ ### DSA <br>
+ --> 1383. Maximum Performance of a Team REDO <br>
+
+
+## <li>10/Sept/22
+ ### DSA <br>
+ --> 188. Best Time to Buy and Sell Stock IV <br>
+
+
+## <li>09/Sept/22
+ ### DSA <br>
+ --> 1996. The Number of Weak Characters in the Game <br>
+
+
+## <li>08/Sept/22
+ ### DSA <br>
+ --> 94. Binary Tree Inorder Traversal <br>
+
+
+## <li>07/Sept/22
+ ### DSA <br>
+ --> 606. Construct String from Binary Tree <br>
+
+
+## <li>06/Sept/22
+ ### DSA <br>
+ --> 814. Binary Tree Pruning <br>
 
 ## <li>05/Sept/22
  ### DSA <br>
