@@ -2,6 +2,36 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>18/Sept/22
+ ### DSA <br>
+ --> 42. Trapping Rain Water <br>
+
+
+## <li>17/Sept/22
+ ### DSA <br>
+ --> 336. Palindrome Pairs (DO AGAIN) <br>
+
+
+## <li>16/Sept/22
+ ### DSA <br>
+ --> 1770. Maximum Score from Performing Multiplication Operations <br>
+
+
+## <li>15/Sept/22
+ ### DSA <br>
+ -->2007. Find Original Array From Doubled Array <br>
+
+
+## <li>14/Sept/22
+ ### DSA <br>
+ -->1457. Pseudo-Palindromic Paths in a Binary Tree <br>
+
+
+## <li>13/Sept/22
+ ### DSA <br>
+ --> 393. UTF-8 Validation <br>
+
+
 ## <li>12/Sept/22
  ### DSA <br>
  --> 948. Bag of Tokens <br>
