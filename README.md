@@ -2,6 +2,11 @@
 This is to keep track of the topics studied or revised 
 
 
+## <li>04/Oct/22
+ ### DSA <br>
+ --> 112. Path Sum <br>
+
+
 ## <li>18/Sept/22
  ### DSA <br>
  --> 42. Trapping Rain Water <br>
